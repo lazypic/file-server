@@ -23,4 +23,4 @@ $ go get github.com/studio2l/file-server
 ```
 
 ## HISTORY
-- https://github.com/studio2l/file-server
+- 원본: https://github.com/studio2l/file-server 리포지터리가 Archived 되면서 Readonly로 바뀌어서 새로 리포지터를 제작함.
