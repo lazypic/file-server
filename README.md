@@ -21,3 +21,6 @@ Go 언어 설치 후 터미널에서 다음처럼 타이핑해주세요.
 ```bash
 $ go get github.com/studio2l/file-server
 ```
+
+## HISTORY
+- https://github.com/studio2l/file-server
