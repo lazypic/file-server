@@ -19,7 +19,7 @@ file-server는 간단한 http 파일 서버 프로그램입니다.
 Go 언어 설치 후 터미널에서 다음처럼 타이핑해주세요.
 
 ```bash
-$ go get github.com/studio2l/file-server
+$ go get github.com/lazypic/file-server
 ```
 
 ## HISTORY
