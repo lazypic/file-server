@@ -1,3 +1,3 @@
-module github.com/studio2l/file-server
+module github.com/lazypic/file-server
 
 go 1.12
