@@ -1,3 +1,3 @@
 module github.com/lazypic/file-server
 
-go 1.12
+go 1.16
